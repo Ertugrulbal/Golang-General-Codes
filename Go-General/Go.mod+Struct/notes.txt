@@ -1,0 +1,5 @@
+
+Commands
+
+    > go mod init github.com/cihanozhan/userpayment
+        > go mod init cihanozhan.com/userpayment
